@@ -1,5 +1,9 @@
 # SpendWise – Hybrid Expense Tracker
 
+**Student:** Priyansh Kumar Paswan  
+**Roll No:** 205124071  
+**Course / Assignment:** Mobile Application Development (MAD) – hybrid app version of a web project
+
 A mobile version of a web-based expense tracker, built with the **hybrid app approach**:
 a standard HTML/CSS/JavaScript web app (`www/`) wrapped into a native Android app using **Ionic Capacitor**.
 

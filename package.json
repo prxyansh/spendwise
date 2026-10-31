@@ -2,6 +2,7 @@
   "name": "spendwise",
   "version": "1.0.0",
   "description": "SpendWise - hybrid expense tracker built with HTML/CSS/JS and Ionic Capacitor",
+  "author": "Priyansh Kumar Paswan (205124071)",
   "private": true,
   "scripts": {
     "sync": "cap sync android",
